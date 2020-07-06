@@ -1,2 +1,2 @@
 # linguagem c
-trabalhos de ecop00, ecop01 e ecop11
+ecop00-ecop01-ecop11-
