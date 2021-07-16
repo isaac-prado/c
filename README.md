@@ -1,2 +1,2 @@
-# linguagem c
-ecop00-ecop01-ecop11-
+# Projeto Final ECOP01/ECOP11
+Simulador de Plantação de Melancia em C
